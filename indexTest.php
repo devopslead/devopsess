@@ -1,6 +1,7 @@
 <?php
 class indexTest {
     public function testIndex() {
-        echo "success";
+        echo "Failed";
+        exit(1);
     }
 }
